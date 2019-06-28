@@ -1,4 +1,6 @@
-# IMAGE COLOR CLUSTERING
+# PYTHON | DATA SCIENCE
+
+# Finding the dominant colors in a painting using k-means clustering.
 
 This program takes in an image and returns a plot of the dominant colors in the image. 
 

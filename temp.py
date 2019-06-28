@@ -16,7 +16,7 @@ from scipy.cluster.vq import kmeans
 import numpy as np
 
 # OPEN IMAGE FILE
-image = plt.imread('./test3.jpg')
+image = plt.imread('./test2.jpg')
 plt.imshow(image)
 
 # GET THE IMAGE R, G, B VALUES

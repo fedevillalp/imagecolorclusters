@@ -14,5 +14,5 @@ The cluster centroids are then transformed back to RGB values and plotted to dep
 ![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result1.png)
 
 #1. Results:
-![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result1.png)
+![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result2.png)
 

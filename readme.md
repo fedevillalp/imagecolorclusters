@@ -9,15 +9,19 @@ The pixel information of each image was transfotmed into three R, G, B vectors p
 The final overall cluster centroids were then transformed back to RGB values and plotted to depict Van Gog's favorite colors.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture1.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture2.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture3.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture4.png)
 

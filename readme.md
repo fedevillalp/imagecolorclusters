@@ -1,22 +1,24 @@
 # PYTHON | DATA SCIENCE
 
-# Finding the dominant colors in a painting using k-means clustering.
+# Finding Van Gogh's favorite colors using using k-means clustering on 1000+ paintings.
 
-This program takes in an image and returns a plot of the dominant colors in the image. 
+This code was used to a) scrape 1000+ Van Gogh paintings , b)  perform k-means clustering on each painting to identify the dominant colors in each painting and c) perform k-means on the ensemble of clusters from all the images to find Van Gog's favorite colors.
 
-It does so by transforming the pixel information into three R, G, B vectors and performing k-means clustering.
+The pixel information of each image was transfotmed into three R, G, B vectors pror to performing k-means clustering. 
 
-The cluster centroids are then transformed back to RGB values and plotted to depict the dominant colors.
+The final overall cluster centroids were then transformed back to RGB values and plotted to depict Van Gog's favorite colors.
 
 
+#Summary and Conclusion:
+![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture1.png)
 
-#Results Example #1:
-![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result1.png)
+#Finding an Image's Color Cluster:
+![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture2.png)
 
-#Results Example #2:
-![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result2.png)
+#Finding an Image's Color Cluster:
+![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture3.png)
 
-#Results Example #3:
-![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/result3.png)
+#Finding the c:
+![Results Image](https://github.com/fedevillalp/imagecolorclusters/blob/master/picture4.png)
 
 

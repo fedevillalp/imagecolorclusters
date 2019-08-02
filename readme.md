@@ -2,7 +2,7 @@
 
 # Finding Van Gogh's favorite colors using using k-means clustering on 1000+ paintings.
 
-This code was used to a) scrape 1000+ Van Gogh paintings , b)  perform k-means clustering on each painting to identify the dominant colors in each painting and c) perform k-means on the ensemble of clusters from all the images to find Van Gogh's favorite colors.
+This code was created to a) scrape 1000+ Van Gogh paintings , b)  perform k-means clustering on each painting to identify the dominant colors in each painting and c) perform k-means on the ensemble of clusters from all the images to find Van Gogh's favorite colors.  First run scrapper2.py to scrape/download images and then run main.py function to perform k-means clustering on all images. All the required helper functions are called from main.py . 
 
 The pixel information of each image was transfotmed into three R, G, B vectors pror to performing k-means clustering. 
 
